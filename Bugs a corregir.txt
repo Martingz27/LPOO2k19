@@ -1,6 +1,0 @@
-2. al ingresar la fecha ay errores al borrar un numero
-3. edit text debe ser de 1 linea
-4. edicion eña
-5. y eña es callaita?
-
-
