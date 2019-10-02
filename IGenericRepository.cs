@@ -213,7 +213,7 @@
         int ExecuteCountQuery(string filterBy, string query);
 
         /// <summary>
-        /// Get Single Data From Database
+        /// Get Single Data From Database modificado
         /// </summary>
         /// <param name="query"></param>
         /// <param name="parameters"></param>
