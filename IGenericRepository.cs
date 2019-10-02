@@ -23,6 +23,7 @@
 		/// Add new record to table asynchronously
 		/// </summary>
 		/// <param name="entity"></param>
+        /// y ella e callaita
 		Task AddAsync(T entity);
 
 		/// <summary>
